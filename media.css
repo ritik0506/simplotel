@@ -1,0 +1,111 @@
+/* For mobile devices */
+@media only screen and (max-width: 600px) {
+  .header {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .container.content {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .container.image {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .container.contex.item {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .figure {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  }
+  
+  /* For tablets */
+  @media only screen and (min-width: 600px) and (max-width: 768px) {
+  .header {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .container.content {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .container.image {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .container.contex.item {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .figure {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  }
+  
+  /* For desktops */
+  @media only screen and (min-width: 768px) and (max-width: 1200px) {
+  .header {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .container.content {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .container.image {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .container.contex.item {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .figure {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  }
+  
+  /* For large desktops */
+  @media only screen and (min-width: 1200px) {
+  .header {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .container.content {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .container.image {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .container.contex.item {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  
+  .figure {
+      /* Add your styles here to keep the layout looking the same as it is now */
+      /* Add your new styles here */
+    }
+  }
